@@ -1,7 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 :root {
-    --font-principal: 'Roboto', sans-serif;
+    --font-principal: 'Bebas Neue', sans-serif;
+    --font-secundaria: 'Roboto', sans-serif;
 }
 
 * {
